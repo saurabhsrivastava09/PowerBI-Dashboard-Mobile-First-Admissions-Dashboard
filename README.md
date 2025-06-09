@@ -21,7 +21,7 @@ Here are selected screens from the dashboard illustrating the mobile-first desig
 ![Screenshot_20250506_142450](https://github.com/user-attachments/assets/dc29f639-6b58-4289-b081-4492064ea1ef)
 *This snapshot shows the main navigation screen for the Undergraduate Admissions dashboard, allowing selection by classification type (e.g., New Students Full Time) and college name (e.g., CAS, PCOB).*
 
-(https://github.com/user-attachments/assets/24e1ff5c-ece0-48f9-b8b8-6c4c652e72c4)![Screenshot_20250506_142707]
+![Screenshot_20250506_142516](https://github.com/user-attachments/assets/9bd6f00f-ce7d-4e99-9bd7-b2ff1735fe0f)
 *This screen displays the year-over-year comparison for "New First Time - Full Time" students, showing KPIs like Submitted, Completed, Accepted, Denied, I-20, Visa, and Net Deposits for both 2024 and 2025, with clear trend arrows indicating performance changes.*
 
 ![Screenshot_20250506_142516](https://github.com/user-attachments/assets/c6edbb6a-3869-43f7-9234-acba04e6abb9)
