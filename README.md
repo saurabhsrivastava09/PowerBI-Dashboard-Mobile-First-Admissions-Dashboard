@@ -18,18 +18,20 @@ Here are selected screens from the dashboard illustrating the mobile-first desig
 
 ### Power BI Snapshot: What the President Sees
 
-![Screenshot_20250506_142450](https://github.com/user-attachments/assets/dc29f639-6b58-4289-b081-4492064ea1ef)
+![Screenshot_20250506_142450](https://github.com/user-attachments/assets/dc29f639-6b58-4289-b081-4492064ea1ef)![Screenshot_20250506_142516](https://github.com/user-attachments/assets/24e1ff5c-ece0-48f9-b8b8-6c4c652e72c4)![Screenshot_20250506_142707](https://github.com/user-attachments/assets/c6edbb6a-3869-43f7-9234-acba04e6abb9)
 *This snapshot shows the main navigation screen for the Undergraduate Admissions dashboard, allowing selection by classification type (e.g., New Students Full Time) and college name (e.g., CAS, PCOB).*
 
-![Screenshot_20250506_142516](https://github.com/user-attachments/assets/24e1ff5c-ece0-48f9-b8b8-6c4c652e72c4)
+
 *This screen displays the year-over-year comparison for "New First Time - Full Time" students, showing KPIs like Submitted, Completed, Accepted, Denied, I-20, Visa, and Net Deposits for both 2024 and 2025, with clear trend arrows indicating performance changes.*
 
-![Screenshot_20250506_142707](https://github.com/user-attachments/assets/c6edbb6a-3869-43f7-9234-acba04e6abb9)
+
 *This view demonstrates the college-level drilldown, specifically for "Pompea College of Business," presenting the same set of KPIs with year-over-year comparisons and trend arrows.*
 
 
 **Microsoft Power BI Desktop** (specifically Version 2.142.928.0) 
+
 **DAX** (Data Analysis Expressions) for custom measures and conditional formatting 
+
 **SQL Server** (for data connection) 
 
 ## How to Interact
