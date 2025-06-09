@@ -17,6 +17,7 @@ The dashboard was designed with a mobile-first approach. To optimize for mobile 
 Here are selected screens from the dashboard illustrating the mobile-first design and core functionality:
 
 ### Power BI Snapshot: What the President Sees
+**_Please note: This dashboard is designed for mobile viewing, so the images below may appear large on a desktop display._**
 
 ![Screenshot_20250506_142450](https://github.com/user-attachments/assets/dc29f639-6b58-4289-b081-4492064ea1ef)
 *This snapshot shows the main navigation screen for the Undergraduate Admissions dashboard, allowing selection by classification type (e.g., New Students Full Time) and college name (e.g., CAS, PCOB).*
